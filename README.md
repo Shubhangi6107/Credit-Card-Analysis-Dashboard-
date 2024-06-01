@@ -1,4 +1,4 @@
-# Credit-Card-Analysis-Dashboard
+# Credit-Card-Revenue-Analysis-Dashboard
 
 ## Table of Contents
 
